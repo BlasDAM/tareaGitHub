@@ -9,6 +9,13 @@ package com.mycompany.lopezgimenez;
 public class LopezGimenez {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+     
+        Lopez apellido= new Lopez();
+        apellido.nombreLopez();
+        Gimenez segundoApellido = new Gimenez();
+        segundoApellido.nombreGimenez();
+        
+        
+        
     }
 }

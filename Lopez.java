@@ -7,4 +7,7 @@ package com.mycompany.lopezgimenez;
  */
 public class Lopez {
     
+    public void nombreLopez(){
+     System.out.println("Clase lopez");
+    }
 }
